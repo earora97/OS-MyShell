@@ -1,0 +1,18 @@
+total 84
+drwxrwxr-x 2 e e  4096 Sep 26 01:04 .
+drwxrwxr-x 3 e e  4096 Sep  1 23:45 ..
+-rwxrwxr-x 1 e e  8864 Sep 24 22:48 a.out
+-rw-rw-r-- 1 e e  5980 Sep 26 01:02 built.c
+-rw-rw-r-- 1 e e 11280 Sep 26 01:02 built.o
+-rw-rw-r-- 1 e e   587 Sep 25 19:23 code.c
+-rw-rw-r-- 1 e e  3208 Sep 26 01:02 code.o
+-rw-rw-r-- 1 e e   406 Sep  1 23:28 header.h
+-rw-r--r-- 1 e e     0 Sep 26 01:04 hello
+-rw-rw-r-- 1 e e   212 Sep  1 23:08 makefile
+-rwxrwxr-x 1 e e 19592 Sep 26 01:02 myshell
+-rw-rw-r-- 1 e e   720 Sep 25 00:55 read.c
+-rw-rw-r-- 1 e e   498 Sep  1 23:50 README.md
+"blah blah"
+"yoyo"
+"yaya"
+11

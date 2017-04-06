@@ -1,6 +1,3 @@
-# OS-MyShell
-C Shell , OS Assignment
-
 Name : Eavanshi Arora
 Roll : 201501115
 
